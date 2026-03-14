@@ -134,6 +134,6 @@ AI Applications in Finance
 
 ## Contact
 
-LinkedIn: linkedin.com/in/shruti-punjabi-6a6848235
+LinkedIn: https://www.linkedin.com/in/shruti-punjabi-6a6848235/
 GitHub: https://github.com/shrutiapunjabi
 
