@@ -90,7 +90,7 @@ Projects included:
 • Financial news sentiment analysis using FinBERT and LDA topic modelling
 
 🔗 Repository:
-https://github.com/shrutiapunjabi/trading-and-risk-management-projects
+https://github.com/shrutiapunjabi/Data-Science-Trading-Risk-Management---Projects
 
 ---
 
