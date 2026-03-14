@@ -1,36 +1,5 @@
 # Hi, I'm Shruti Punjabi 👋
 
-🎓 Master's Student in **Financial Data Science**
-🏫 **UCD Michael Smurfit Graduate Business School**
-
-📊 **CFA Level I Candidate**
-
-I am passionate about **Corporate Finance, Financial Modeling, Financial Data Analytics and Fintech**.
-I enjoy building **data-driven financial models and analytical tools** using Python and modern data technologies.
-
-My work focuses on:
-
-* Financial Modeling and Corporate Finance Analysis
-* Credit Risk and Financial Analytics
-* Building Finance Dashboards using **Python, Streamlit, Power BI, and SQL**
-* Applying **Machine Learning in Financial Decision Making**
-
-⚡ Skills
-
-Programming
-Python, SQL
-
-Finance
-Corporate Finance, Financial Modeling, Capital Budgeting, Risk Analysis
-
-Data Science & Analytics
-Machine Learning, Regression Analysis, Data Visualization
-
-Tools & Platforms
-Pandas, Scikit-learn, Streamlit, Power BI, Excel
-
-# Hi, I'm Shruti Punjabi 👋
-
 🎓 Master's Student – Financial Data Science
 🏫 UCD Michael Smurfit Graduate Business School
 
