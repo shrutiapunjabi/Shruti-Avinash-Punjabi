@@ -1,53 +1,139 @@
-# Hi, I'm Shruti Punjabi 👋
+# Hi, I'm Shruti Avinash Punjabi👋
 
-🎓 Master's Student – Financial Data Science
-🏫 UCD Michael Smurfit Graduate Business School
+🎓 MSc Financial Data Science | UCD Michael Smurfit Graduate Business School | CFA Level 1 Appeared
+📊 Interested in Financial Analytics, Machine Learning, Econometrics , Corporate Finance , Data Analytics and FinTech
 
-📊 CFA Level I Candidate
-
-I am passionate about **Corporate Finance, Financial Modeling, and Financial Data Science**.
-I enjoy building **data-driven financial models, forecasting systems, and analytical dashboards** using Python and modern data technologies.
+I am passionate about applying **data science, econometrics, and machine learning techniques to financial markets and real-world financial datasets**. My work focuses on building predictive models, financial valuation tools, and data-driven decision systems.
 
 ---
 
 ## Skills
 
-Programming
-Python, SQL
+Python
+Financial Econometrics
+Time Series Analysis
+Machine Learning
+Natural Language Processing
+Financial Modelling (DCF / Valuation)
+Data Analysis and Visualization
 
-Finance
-Corporate Finance, Financial Modeling, Valuation, Capital Budgeting
+Tools & Libraries
 
-Data Science
-Machine Learning, Econometrics, Time Series Forecasting
-
-Tools
-Pandas, Scikit-learn, Streamlit, Power BI, Excel
+Pandas
+NumPy
+Scikit-learn
+Statsmodels
+Matplotlib
+Transformers (FinBERT)
+Streamlit
 
 ---
 
-🚀 Featured Projects
+## Projects
 
-1) Portfolio Optimization using Python
-Built an optimization model to construct efficient portfolios and maximize risk-adjusted returns.
+### Market Sentiment and Stock Returns
 
-2) Market Sentiment Prediction Model
-Developed a machine learning system for market sentiment analysis and financial forecasting.
+Econometric analysis studying whether music sentiment influences stock market returns.
 
-3) Financial Econometrics Forecasting Model
-Implemented OLS regression, ARIMA, and GARCH models for time-series forecasting.
+Key techniques used:
 
-4) Financial Analytics Dashboard
-Interactive dashboard for financial analysis built using Python and Streamlit.
+* Regression modelling
+* Sentiment analysis
+* Financial econometrics
+* Market data analysis
 
-5) Equity Valuation & Financial Forecasting
-Corporate financial modeling and valuation projects for companies including Starbucks and Nestlé.
+🔗 Repository:
+https://github.com/shrutiapunjabi/music-sentiment-stock-returns
 
-6) Data Science Trading Strategy
-Developed trading models using LDA and neural networks.
+---
 
+### Temperature Forecasting Dashboard
 
-🔧 Current Work
+Econometric forecasting system using **OLS, ARIMA and GARCH models** with an interactive Streamlit dashboard for prediction.
 
-1) AI-Based DCF Valuation Dashboard (Power BI + SQL)
-2) SME Credit Risk Prediction Model
+Key features:
+
+* Time-series modelling
+* Hybrid forecasting model
+* Interactive dashboard
+* Model diagnostics
+
+🔗 Repository:
+https://github.com/shrutiapunjabi/temperature-forecasting-dashboard
+
+---
+
+### Starbucks Equity Valuation
+
+Equity research project performing **financial statement analysis and stock valuation** using Discounted Cash Flow (DCF) and Dividend Discount Model (DDM).
+
+Key techniques:
+
+* Financial statement analysis
+* DCF valuation modelling
+* Dividend valuation
+* Investment recommendation
+
+🔗 Repository:
+https://github.com/shrutiapunjabi/starbucks-equity-valuation
+
+---
+
+### Financial Data Science for Trading & Risk Management
+
+A collection of Python projects applying data science techniques to financial markets.
+
+Projects included:
+
+• Bitcoin high-frequency volatility analysis
+• NFT pricing model using hedonic regression
+• Financial news sentiment analysis using FinBERT and LDA topic modelling
+
+🔗 Repository:
+https://github.com/shrutiapunjabi/trading-and-risk-management-projects
+
+---
+
+## Currently Working On
+
+### AI-Based DCF Valuation Dashboard
+
+Developing an intelligent financial valuation dashboard that automates company valuation using machine learning and financial modelling techniques.
+
+Features being developed:
+
+* Automated financial data extraction
+* AI-assisted DCF valuation
+* Interactive valuation dashboards
+* Financial forecasting models
+
+---
+
+### SME Credit Risk Prediction Model
+
+Building a machine learning model to predict credit risk for small and medium enterprises using financial and behavioural data.
+
+Objectives:
+
+* Credit default prediction
+* Risk scoring model
+* Feature engineering for financial datasets
+* Machine learning classification models
+
+---
+
+## Interests
+
+Financial Data Science
+Quantitative Finance
+FinTech Innovation
+Financial Machine Learning
+AI Applications in Finance
+
+---
+
+## Contact
+
+LinkedIn: linkedin.com/in/shruti-punjabi-6a6848235
+GitHub: https://github.com/shrutiapunjabi
+
