@@ -29,22 +29,22 @@ I am passionate about applying **data science, econometrics, and machine learnin
 
 ### Financial & Quantitative Skills
 
-Financial Econometrics
-Time Series Analysis
-Machine Learning
-Natural Language Processing
-Financial Modelling (DCF / Valuation)
-Data Analysis & Visualization
+• Financial Econometrics
+• Time Series Analysis
+• Machine Learning
+• Natural Language Processing
+• Financial Modelling (DCF / Valuation)
+• Data Analysis & Visualization
 
 ### Libraries & Tools
 
-Pandas
-NumPy
-Scikit-learn
-Statsmodels
-Matplotlib
-Transformers (FinBERT)
-Streamlit
+• Pandas
+• NumPy
+• Scikit-learn
+• Statsmodels
+• Matplotlib
+• Transformers (FinBERT)
+• Streamlit
 
 ---
 
